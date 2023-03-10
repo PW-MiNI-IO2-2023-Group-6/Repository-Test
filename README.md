@@ -14,8 +14,9 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 ---
 ## Lista:
 
-1. Litkowski Andrzej
-2. Szymon Pawlonka
-3. Sowa Joanna
-4. Wujkowski Daniel
-5. Żukowska Łucja
+1. Kącki Karol
+2. Litkowski Andrzej
+3. Szymon Pawlonka
+4. Sowa Joanna
+5. Wujkowski Daniel
+6. Żukowska Łucja
