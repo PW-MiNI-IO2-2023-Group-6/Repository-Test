@@ -14,11 +14,12 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 ---
 ## Lista:
 
-1. Knyspel Jakub
-2. Litkowski Andrzej
-3. Szymon Pawlonka
-4. Siwak Paweł
-5. Sowa Joanna
-6. Urbański Jakub
-7. Wujkowski Daniel
-8. Żukowska Łucja
+1. Kącki Karol
+2. Knyspel Jakub
+3. Litkowski Andrzej
+4. Pawlonka Szymon
+5. Siwak Paweł
+6. Sowa Joanna
+7. Urbański Jakub
+8. Wujkowski Daniel
+9. Żukowska Łucja
