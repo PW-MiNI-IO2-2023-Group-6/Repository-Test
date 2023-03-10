@@ -25,5 +25,6 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 8. Pawlonka Szymon
 9. Siwak Paweł
 10. Sowa Joanna
-11. Wujkowski Daniel
-12. Żukowska Łucja
+11. Szpejna Dawid
+12. Wujkowski Daniel
+13. Żukowska Łucja
