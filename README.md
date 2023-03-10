@@ -15,4 +15,6 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 ## Lista:
 
 1. Litkowski Andrzej
-2. Sowa Joanna
+2. Szymon Pawlonka
+3. Sowa Joanna
+
