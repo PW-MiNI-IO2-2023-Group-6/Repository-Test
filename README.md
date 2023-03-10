@@ -14,11 +14,15 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 ---
 ## Lista:
 
-1. Knyspel Jakub
-2. Litkowski Andrzej
-3. Szymon Pawlonka
-4. Siwak Paweł
-5. Sowa Joanna
-6. Szpejna Dawid
-7. Wujkowski Daniel
-8. Żukowska Łucja
+
+1. Kacprzak Przemysław
+2. Kącki Karol
+3. Knyspel Jakub
+4. Litkowski Andrzej
+5. Palmer Jan
+6. Pawlonka Szymon
+7. Siwak Paweł
+8. Sowa Joanna
+9. Szpejna Dawid
+10. Wujkowski Daniel
+11. Żukowska Łucja
