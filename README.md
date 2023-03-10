@@ -26,3 +26,5 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 10. Wujkowski Daniel
 11. Żukowska Łucja
 
+
+
