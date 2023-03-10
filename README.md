@@ -18,9 +18,10 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 2. Kącki Karol
 3. Knyspel Jakub
 4. Litkowski Andrzej
-5. Pawlonka Szymon [2]
-6. Siwak Paweł
-7. Sowa Joanna
-8. Urbański Jakub
+5. Palmer Jan
+6. Pawlonka Szymon
+7. Siwak Paweł
+8. Sowa Joanna
 9. Wujkowski Daniel
 10. Żukowska Łucja
+
