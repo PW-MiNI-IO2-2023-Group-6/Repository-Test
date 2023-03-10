@@ -17,3 +17,5 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 1. Knyspel Jakub
 2. Litkowski Andrzej
 3. Szymon Pawlonka
+4. Sowa Joanna
+5. Wujkowski Daniel
