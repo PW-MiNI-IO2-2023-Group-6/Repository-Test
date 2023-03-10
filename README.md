@@ -13,6 +13,7 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 
 ---
 ## Lista:
+
 1. Kącki Karol
 2. Knyspel Jakub
 3. Litkowski Andrzej
