@@ -13,9 +13,16 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 
 ---
 ## Lista:
-1. Kubiak Kamil
-2. Litkowski Andrzej
-3. Szymon Pawlonka
-4. Sowa Joanna
-5. Wujkowski Daniel
+
+
+=======
+1. Kącki Karol
+2. Knyspel Jakub
+3. Kubiak Kamil
+4. Litkowski Andrzej
+5. Pawlonka Szymon
+6. Siwak Paweł
+7. Sowa Joanna
+8. Wujkowski Daniel
+9. Żukowska Łucja
 
