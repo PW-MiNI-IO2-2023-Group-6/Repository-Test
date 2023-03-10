@@ -15,4 +15,5 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 ## Lista:
 
 1. Litkowski Andrzej
-2. Wujkowski Daniel
+2. Szymon Pawlonka
+3. Wujkowski Daniel
