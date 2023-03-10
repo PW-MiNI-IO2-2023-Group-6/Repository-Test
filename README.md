@@ -14,12 +14,11 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 ---
 ## Lista:
 
-<<<<<<< HEAD
 1. Kacprzak Przemysław
 2. Kącki Karol
 3. Knyspel Jakub
-4. Nieciecki Piotr
-5. Litkowski Andrzej
+4. Litkowski Andrzej
+5. Nieciecki Piotr
 6. Palmer Jan
 7. Pawlonka Szymon
 8. Siwak Paweł
