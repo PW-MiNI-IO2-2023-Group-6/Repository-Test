@@ -14,5 +14,6 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 ---
 ## Lista:
 
-1. Litkowski Andrzej
-2. Szymon Pawlonka
+1. Knyspel Jakub
+2. Litkowski Andrzej
+3. Szymon Pawlonka
