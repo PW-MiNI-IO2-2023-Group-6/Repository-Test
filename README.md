@@ -24,4 +24,3 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 8. Sowa Joanna
 9. Wujkowski Daniel
 10. Żukowska Łucja
-
