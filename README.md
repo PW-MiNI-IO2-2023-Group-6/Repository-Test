@@ -19,3 +19,4 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 3. Szymon Pawlonka
 4. Sowa Joanna
 5. Wujkowski Daniel
+6. Żukowska Łucja
