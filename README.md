@@ -21,3 +21,4 @@ Jeżeli nie korzystacie z githuba tylko robicie coś lokalnie, upewnijcie się �
 5. Sowa Joanna
 6. Wujkowski Daniel
 7. Żukowska Łucja
+8. Palmer Jan
